@@ -2,7 +2,7 @@
 
 const Header = () => {
     return (
-        <header className="w-full fixed top-0">
+        <header className="w-full fixed top-0 bg-white">
             <div className="container mx-auto px-5">
                 <nav className="flex  items-center justify-between h-[61px] border-b-2 ">
                     <ul className="flex gap-x-8 items-center">
