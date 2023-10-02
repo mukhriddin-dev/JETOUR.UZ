@@ -1,6 +1,5 @@
 import  {FC} from 'react';
 
-
 interface PROPS {
     title: string,
     description: string,
