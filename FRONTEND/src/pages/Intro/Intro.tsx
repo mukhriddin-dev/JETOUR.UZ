@@ -3,6 +3,7 @@ import Logo from "../../components/UI/Icons/Logo";
 import Play from "../../components/UI/Icons/Play";
 import usePlayStore from "../../store/usePlaystore";
 
+
 const Intro = () => {
     const {play} = usePlayStore();
     const playRef = useRef<HTMLVideoElement | null>(null);
