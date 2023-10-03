@@ -1,0 +1,1 @@
+import{j as e}from"./index-47cb27ef.js";const t=()=>e.jsx("div",{className:"w-full absolute top-0 left-0 min-h-screen grid place-content-center bg-[rgba(0,0,0,0.5)]",children:e.jsx("div",{className:"loader",children:"Loading..."})});export{t as default};
